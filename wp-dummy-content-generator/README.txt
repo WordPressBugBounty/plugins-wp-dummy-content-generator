@@ -127,4 +127,5 @@ You can report security bugs through the Patchstack Vulnerability Disclosure Pro
 3.4.3 - Fixed user data generation issue for firstname and last name.
 3.4.4 - Used admin_url() instead of hardcoding the admin URL.
 3.4.5 - Minor changes.
+3.4.6 - Minor changes.
 == Upgrade Notice ==
