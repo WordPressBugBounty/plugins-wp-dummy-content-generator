@@ -128,4 +128,5 @@ You can report security bugs through the Patchstack Vulnerability Disclosure Pro
 3.4.4 - Used admin_url() instead of hardcoding the admin URL.
 3.4.5 - Minor changes.
 3.4.6 - Minor changes.
+4.0.0 - Re-designed the dashboard to give it a modern Look and Feel.
 == Upgrade Notice ==
